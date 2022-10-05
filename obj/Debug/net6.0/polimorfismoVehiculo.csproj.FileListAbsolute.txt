@@ -1,0 +1,15 @@
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\polimorfismoVehiculo\bin\Debug\net6.0\polimorfismoVehiculo.exe
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\polimorfismoVehiculo\bin\Debug\net6.0\polimorfismoVehiculo.deps.json
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\polimorfismoVehiculo\bin\Debug\net6.0\polimorfismoVehiculo.runtimeconfig.json
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\polimorfismoVehiculo\bin\Debug\net6.0\polimorfismoVehiculo.dll
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\polimorfismoVehiculo\bin\Debug\net6.0\polimorfismoVehiculo.pdb
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\polimorfismoVehiculo\obj\Debug\net6.0\polimorfismoVehiculo.csproj.AssemblyReference.cache
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\polimorfismoVehiculo\obj\Debug\net6.0\polimorfismoVehiculo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\polimorfismoVehiculo\obj\Debug\net6.0\polimorfismoVehiculo.AssemblyInfoInputs.cache
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\polimorfismoVehiculo\obj\Debug\net6.0\polimorfismoVehiculo.AssemblyInfo.cs
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\polimorfismoVehiculo\obj\Debug\net6.0\polimorfismoVehiculo.csproj.CoreCompileInputs.cache
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\polimorfismoVehiculo\obj\Debug\net6.0\polimorfismoVehiculo.dll
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\polimorfismoVehiculo\obj\Debug\net6.0\refint\polimorfismoVehiculo.dll
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\polimorfismoVehiculo\obj\Debug\net6.0\polimorfismoVehiculo.pdb
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\polimorfismoVehiculo\obj\Debug\net6.0\polimorfismoVehiculo.genruntimeconfig.cache
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\polimorfismoVehiculo\obj\Debug\net6.0\ref\polimorfismoVehiculo.dll
